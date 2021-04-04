@@ -1,7 +1,7 @@
 
 {
 	"name": "Twitter All Official Accounts",
-	"version": "1.0.0",
+	"version": "1.0.1",
     "description": "TwitterのWeb版で全員を公式アカウントに変身させるChrome拡張機能です。",
 	"content_scripts": [
 		{
